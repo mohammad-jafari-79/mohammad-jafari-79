@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Mohammad 👋🏻.
 
-<!--
-**mohammad-jafari-79/mohammad-jafari-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./github-banner.png" alt ="banner that says Mohammad Jafari - software engineer">
 
-Here are some ideas to get you started:
+## Education
+I'm recently graduated with a bachelor's degree in computer engineering from <a href="https://ub.ac.ir/">bojnord Univercity</a>. I am currently studying software engineering at the master's level at <a href="https://imamreza.ac.ir/">Imam Reza University</a> located in Mashhad. I am interested in web development. I put a series of small projects and exercises I did during my undergraduate course on GitHub. Some of these exercises and projects are related to website design using HTML, CSS, SASS, BOOTSTRAP, JAVASCRIPT and JQUERY, and some focus more on JAVASCRIPT topics, and a few of these projects use PHP and AJAX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Experience
+### FRONT END
+* 💻 HTML, CSS, JS, JQUERY
+* 🎨🖌️ BOOTSTRAP, SASS
+### BACK END
+* PHP, AJAX, MYSQL, SQL SERVER
