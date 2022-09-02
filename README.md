@@ -3,7 +3,7 @@
 <img src="./github-banner.png" alt ="banner that says Mohammad Jafari - software engineer">
 
 ## Education
-I'm recently graduated with a bachelor's degree in computer engineering from <a href="https://ub.ac.ir/">bojnord Univercity</a>. I am currently studying software engineering at the master's level at <a href="https://imamreza.ac.ir/">Imam Reza University</a> located in Mashhad. I am interested in web development. I put a series of small projects and exercises I did during my undergraduate course on GitHub. Some of these exercises and projects are related to website design using HTML, CSS, SASS, BOOTSTRAP, JAVASCRIPT and JQUERY, and some focus more on JAVASCRIPT topics, and a few of these projects use PHP and AJAX.
+I've recently graduated with a Bachelor's degree in Computer Engineering from <a href="https://ub.ac.ir/">University of Bojnurd</> and I am currently studying master of software engineering at <a href="https://imamreza.ac.ir/">Imam Reza International University</> located in Mashhad. Currently, my GitHub profile includes some of my academic projects and exercises. As I am mainly interested in web development, some of these exercises and projects are related to website design using HTML, CSS, Sass, Bootstrap, JavaScript and jQuery, some of them have a deeper focus on JavaScript topics, and a few of them include PHP and AJAX.
 
 ## Skills and Experience
 ### FRONT END
