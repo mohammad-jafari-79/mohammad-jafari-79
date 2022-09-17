@@ -15,4 +15,4 @@ I've recently graduated with a Bachelor's degree in Computer Engineering from <a
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-jafari-79&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-jafari-79&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ### Wakatime
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohammad-jafari-79&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohammadJafari79&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
