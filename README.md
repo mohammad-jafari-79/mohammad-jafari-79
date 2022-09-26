@@ -24,3 +24,21 @@ I've recently graduated with a Bachelor's degree in Computer Engineering from <a
 ### Wakatime
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohammadJafari79&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Social
+
+<a href="https://www.instagram.com/mohammad_jafari_79">
+  <img width="40px" height="40px" src="icons/instagram.svg"/ alt="Instagram Icon">
+</a>
+<a href="https://t.me/Mohammad_Jafari_79">
+  <img width="40px" height="40px" src="icons/telegram.svg"/ alt="telegram Icon">
+</a>
+<a href="https://www.youtube.com/channel/UC6d8ehqlxEVDOGmFrhu42SQ">
+  <img width="40px" height="40px" src="icons/youtube.svg"/ alt="Youtube Icon">
+</a>
+
+<br>
+
+<a href="https://iconscout.com/icons/instagram" target="_blank">Instagram Icon</a> by <a href="https://iconscout.com/contributors/juraj-sedlak">Juraj Sedlák</a> on <a href="https://iconscout.com">IconScout</a><br>
+<a href="https://iconscout.com/icons/play" target="_blank">Play Icon</a> by <a href="https://iconscout.com/contributors/roundicons-com">Roundicons.com</a> on <a href="https://iconscout.com">IconScout</a>
+    
