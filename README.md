@@ -37,7 +37,7 @@ I've recently graduated with a Bachelor's degree in Computer Engineering from <a
   <img width="40px" height="40px" src="icons/youtube.svg"/ alt="Youtube Icon">
 </a>
 
-<br>
+<br><br>
 
 <a href="https://iconscout.com/icons/instagram" target="_blank">Instagram Icon</a> by <a href="https://iconscout.com/contributors/juraj-sedlak">Juraj Sedlák</a> on <a href="https://iconscout.com">IconScout</a><br>
 <a href="https://iconscout.com/icons/play" target="_blank">Play Icon</a> by <a href="https://iconscout.com/contributors/roundicons-com">Roundicons.com</a> on <a href="https://iconscout.com">IconScout</a>
