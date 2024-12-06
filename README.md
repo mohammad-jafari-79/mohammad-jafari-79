@@ -6,7 +6,7 @@
 
 I hold a Master's degree in Software Engineering from [Imam Reza International University](https://imamreza.ac.ir/) and a Bachelor's degree in Computer Engineering from [University of Bojnurd](https://ub.ac.ir/). My journey in software development has been fueled by a passion for creating efficient and elegant solutions, particularly in the realm of **web development** and **programming frameworks**.
 
-Currently, I'm working extensively with **Python** and **Vue.js**, diving deeper into modern front-end and back-end development practices. My GitHub repositories showcase a mix of academic projects, exercises, and real-world projects aimed at honing my technical skills.
+Currently, I'm working extensively with **Python** and **Vue.js**, diving deeper into modern front-end development practices. My GitHub repositories showcase a mix of academic projects, exercises, and real-world projects aimed at honing my technical skills.
 
 ---
 ## Skills in Front End
